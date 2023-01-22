@@ -1,5 +1,5 @@
 # 60 days of go
-:squirrel: 60 days discovering go
+:card_index_dividers: 60 days discovering go
 
 Heavily inspired by [Going.go](https://goinggo.io/) of my friend [@joaoh82](https://github.com/joaoh82).
 
@@ -55,11 +55,11 @@ Personal challenge to post every day a note about go.
 | 046 | [Debug - Delve](day46/)
 | 047 | [Debug - GDB](day47/)
 | 048 | [Go Docker](day48/)
-| 049 | [black screen of death](day49/)
+| 049 | [Black Screen of Death](day49/)
 | 050 | [Singleton](day50/)
 | 051 | [Dr. Strange](day51/)
 | 052 | [Mutex](day52/)
-| 053 | [gofn](day53/)
+| 053 | [GOFN](day53/)
 | 054 | [String Theory](day54/)
 | 055 | [Sort](day55/)
 | 056 | [Path](day56/)
